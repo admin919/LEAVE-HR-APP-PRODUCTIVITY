@@ -1,4 +1,4 @@
-# LEAVE-HR-APPPS
+# LEAVE-HR-APPS
 
 
 # Privacy Policy for LEAVE HR APP
